@@ -1,0 +1,7 @@
+# Ignorar archivos sensibles
+.env
+
+# Ignorar entornos virtuales
+myenv/
+__pycache__/
+*.pyc
